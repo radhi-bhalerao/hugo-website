@@ -1,4 +1,4 @@
-baseURL: "https://radhi-bhalerao.github.io/" 
+baseURL: "https://radhikabhalerao.com" 
 title: Radhika Bhalerao
 paginate: 20
 theme: PaperMod
@@ -11,25 +11,28 @@ taxonomies:
 
 menu:
     main:
-        - name: CV
-          url: cv/
-          weight: 5 
+        #- name: CV
+        #  url: cv/
+        #  weight: 5 
         - name: Papers
-          url: papers/
+          url: https://pubmed.ncbi.nlm.nih.gov/?term=radhika+bhalerao
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Awards
+          url: awards/
           weight: 3
-        - name: Data
-          url: data/
+        #- name: Courses
+        #  url: courses/
+          weight: 3
+        #- name: Data
+        #  url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        #- name: Blog
+        #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #  weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a PhD student in the Computational Precision Health program joint between University of California Berkeley and University of California San Francisco (UCSF)."
+    author: Radhika Bhalerao
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,48 +57,54 @@ params:
     profileMode:
           enabled: true
           title: Radhika Bhalerao
-          subtitle: " I am a PhD student in the Computational Precision Health program at UC Berkeley and UC San Francisco."
-          imageUrl: "profile-pic.jpeg"
-          imageWidth: 160
+          subtitle: " I am a PhD student in the Computational Precision Health program joint between University of California Berkeley and University of California San Francisco (UCSF). Previously, I completed my Masters in Biomedical Imaging from UCSF advised by Andreas Rauschecker. Before that I spent a few wonderful years working as a Data Science Research Specialist at UCSF, applying AI to brain imaging in the BRAIN and Morrison Labs. Outside of research, I sing Hindustani Classical music and am a music nerd."
+          imageUrl: "profile-pic.jpg"
+          imageWidth: 155
           imageHeight: 160
           imageTitle: Radhika Bhalerao
           buttons:
             - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://pubmed.ncbi.nlm.nih.gov/?term=radhika+bhalerao
+            - name: Awards
+              url: awards/
+            #- name: Courses
+            #  url: courses/
+            #- name: Data
+            #  url: data/
+            #-name: Books
+            #  url: books/
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
+            #- name: Blog
+             # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+        #  url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:rbh@berkeley.edu
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
+        #- name: Location
+        #  url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/radhi-bhalerao
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/radhika-bhalerao/
+        - name: X
+          url: https://x.com/Radhi_Bhalerao
         - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: www.youtube.com/@RadhikasMusic
+        - name: Instagram
+          url: https://www.instagram.com/radhikasmusic/
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +112,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Radhika Bhalerao"
       icon: favicon.ico
       iconHeight: 18
 

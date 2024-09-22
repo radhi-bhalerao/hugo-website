@@ -9,6 +9,27 @@
     <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neuroradiology</title>
+      <link>http://localhost:1313/tags/neuroradiology/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/neuroradiology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pediatric</title>
+      <link>http://localhost:1313/tags/pediatric/</link>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pediatric/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dataset</title>
       <link>http://localhost:1313/tags/dataset/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
