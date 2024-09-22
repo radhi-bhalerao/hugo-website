@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://radhi-bhalerao.github.io/" 
+title: Radhika
 paginate: 20
 theme: PaperMod
 
@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: CV
+          url: cv/
           weight: 5 
         - name: Papers
           url: papers/
