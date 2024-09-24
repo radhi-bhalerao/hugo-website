@@ -1,4 +1,4 @@
-baseURL: "radhikabhalerao.com" 
+baseURL: "http://radhi-bhalerao.github.io/hugo-website/" 
 title: Radhika Bhalerao
 paginate: 20
 theme: PaperMod
