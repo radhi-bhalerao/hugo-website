@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Radhika Bhalerao</title>
-    <link>radhikabhalerao.com/tags/ai/</link>
+    <link>http://radhi-bhalerao.github.io/hugo-website/tags/ai/</link>
     <description>Recent content in AI on Radhika Bhalerao</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="radhikabhalerao.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://radhi-bhalerao.github.io/hugo-website/tags/ai/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
